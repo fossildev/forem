@@ -1,7 +1,8 @@
 <div align="center">
   <br>
-  <h1>Forem 🌱</h1>
-  <strong>For Empowering Community</strong>
+  <h1>FOSSIL Space Station</h1>
+  <strong>Ruang Ngumpulnya FOSSIL AMIKOM</strong>
+  <p>Build by Forem 🌱</p>
 </div>
 <br>
 <p align="center">
